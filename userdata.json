@@ -1,7 +1,7 @@
 {
   "version": 1,
   "devices": {
-    "ANDROID_ID_PERANGKAT_1": {
+    "ANDROID_ID_PERANGKAT": {
       "enabled": true,
       "expires": "2027-12-31"
     }
